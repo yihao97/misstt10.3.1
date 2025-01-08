@@ -1,1 +1,98 @@
-{"type":"header","name":"Header group","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"message-1":{"type":"message","settings":{}}},"block_order":["message-1"],"settings":{"announcement_bar_position":"non_sticky","announcement_text_size":"normal","autoplay":true,"cycle_speed":5,"background":"#f7aea6","text_color":"#56112a","button_background":"#56112a","button_text_color":"#ffffff"}},"header":{"type":"header","settings":{"enable_sticky_header":true,"logo":"{{ shop.brand.logo }}","navigation_menu":"main-menu","header_layout":"logo_left_navigation_center","show_icons":false,"reduce_desktop_padding":false,"enable_transparent_header":false,"transparent_header_text_color":"#ffffff"}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "text": "Announce something here",
+            "learn_more_text": "Learn more",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "message-1"
+      ],
+      "settings": {
+        "announcement_bar_position": "non_sticky",
+        "announcement_text_size": "small",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#f7aea6",
+        "text_color": "#56112a",
+        "button_background": "#56112a",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_pXkDep": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "MAIN menu",
+            "images_position": "right",
+            "image_1_heading": "",
+            "image_1_text": "",
+            "image_1_link": "",
+            "image_2_heading": "",
+            "image_2_text": "",
+            "image_2_link": "",
+            "image_3_heading": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_heading": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_pXkDep"
+      ],
+      "settings": {
+        "enable_sticky_header": true,
+        "logo": "{{ shop.brand.logo }}",
+        "logo_max_width": 140,
+        "mobile_logo_max_width": 100,
+        "navigation_menu": "main-menu",
+        "sidebar_navigation_menu": "",
+        "header_layout": "logo_left_navigation_center",
+        "show_icons": false,
+        "reduce_desktop_padding": false,
+        "show_locale_selector": true,
+        "show_country_selector": false,
+        "enable_transparent_header": false,
+        "transparent_header_text_color": "#ffffff",
+        "search_menu": ""
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
