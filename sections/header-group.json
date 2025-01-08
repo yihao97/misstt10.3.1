@@ -49,41 +49,18 @@
           "settings": {
             "menu_item": "MAIN MENU",
             "images_position": "right",
-            "image_1_heading": "",
+            "image_1": "shopify://shop_images/Outthe-Blue-Original-Pattern-22Four-Directions-To-Money-Cat22-Suede-Lamb-Wool-One-Piece-Small-Square-Bag-Handbag-3.jpg",
+            "image_1_heading": "OUTTHEBLUE",
             "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
+            "image_1_link": "shopify://collections/outtheblue",
+            "image_2": "shopify://shop_images/Ysyk-Brown-Neutral-Wool-Jacket-Dark-Woolen-Comb-Loose-Shoulder-41.jpg",
+            "image_2_heading": "YOSHUYUKI",
             "image_2_text": "",
-            "image_2_link": "",
-            "image_3_heading": "",
+            "image_2_link": "shopify://collections/yoshuyuki",
+            "image_3": "shopify://shop_images/Achihara-Top-WomenS-Skirt-Paired-With-Short-Sleeved-Patchwork-Black-2024-New-Summer-And-Autumn-Shirt-Half-Set-25.jpg",
+            "image_3_heading": "ACHIHARA",
             "image_3_text": "",
-            "image_3_link": "",
-            "image_4_heading": "",
-            "image_4_text": "",
-            "image_4_link": "",
-            "image_5_heading": "",
-            "image_5_text": "",
-            "image_5_link": "",
-            "image_6_heading": "",
-            "image_6_text": "",
-            "image_6_link": ""
-          }
-        },
-        "mega_menu_EbD8Kg": {
-          "type": "mega_menu",
-          "settings": {
-            "menu_item": "",
-            "images_position": "right",
-            "image_1": "shopify://shop_images/Kvkv-Black-Pleated-Micro-Flared-Slim-Fit-Stack-Jeans-24.jpg",
-            "image_1_heading": "",
-            "image_1_text": "",
-            "image_1_link": "",
-            "image_2_heading": "",
-            "image_2_text": "",
-            "image_2_link": "",
-            "image_3_heading": "",
-            "image_3_text": "",
-            "image_3_link": "",
+            "image_3_link": "shopify://collections/achihara",
             "image_4_heading": "",
             "image_4_text": "",
             "image_4_link": "",
@@ -97,8 +74,7 @@
         }
       },
       "block_order": [
-        "mega_menu_pXkDep",
-        "mega_menu_EbD8Kg"
+        "mega_menu_pXkDep"
       ],
       "settings": {
         "enable_sticky_header": true,
