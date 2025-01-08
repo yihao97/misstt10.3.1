@@ -47,7 +47,7 @@
         "mega_menu_pXkDep": {
           "type": "mega_menu",
           "settings": {
-            "menu_item": "MAIN menu",
+            "menu_item": "main-menu",
             "images_position": "right",
             "image_1_heading": "",
             "image_1_text": "",
